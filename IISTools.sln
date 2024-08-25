@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreateSelfSignedCert", "CreateSelfSignedCert\CreateSelfSignedCert.csproj", "{BABD7E85-90C8-45F4-A7CB-1DA769B65162}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{6514D92D-34F9-4942-9094-5F575A938E86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BABD7E85-90C8-45F4-A7CB-1DA769B65162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BABD7E85-90C8-45F4-A7CB-1DA769B65162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BABD7E85-90C8-45F4-A7CB-1DA769B65162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BABD7E85-90C8-45F4-A7CB-1DA769B65162}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6514D92D-34F9-4942-9094-5F575A938E86}.Debug|Any CPU.ActiveCfg = Debug
+		{6514D92D-34F9-4942-9094-5F575A938E86}.Release|Any CPU.ActiveCfg = Release
+		{6514D92D-34F9-4942-9094-5F575A938E86}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58F30705-780C-4965-A458-5297B8330582}
+	EndGlobalSection
+EndGlobal
